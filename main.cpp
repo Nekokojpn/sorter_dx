@@ -32,7 +32,7 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
 	WaitTimer(1000);
 	shuffle();
 	
-	/*
+	
 	radix_sort_lsd_call(ARR);
 	WaitTimer(1000);
 	shuffle();
@@ -47,15 +47,15 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
 	WaitTimer(1000);
 	quicksort(ARR, 0, ARR_LENGTH);
 	WaitTimer(1000);
-	*/
+	shuffle();
 	WaitTimer(1000);
 	bitonicsort_call(ARR, ARR_LENGTH, 1);
 	WaitTimer(1000);
-	/*
+	
 	shuffle();
 	WaitTimer(1000);
 	heapsort_call(ARR, ARR_LENGTH);
-	*/
+	
 	ClearDrawScreen();
 	for (int i = 0; i < ARR_LENGTH; i++)
 	{

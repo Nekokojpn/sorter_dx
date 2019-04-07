@@ -1,4 +1,10 @@
-﻿  main.cpp
+﻿  bitonicsort.cpp
+  heapsort.cpp
+  main.cpp
 F:\MYFOLDER\ONEDRIVE\俺用フォルダ\sorter_dx\main.cpp(28): warning C4129: 'R': エスケープ シーケンスとして正しく認識されませんでした。
 F:\MYFOLDER\ONEDRIVE\俺用フォルダ\sorter_dx\main.cpp(28): warning C4129: 'w': エスケープ シーケンスとして正しく認識されませんでした。
+  mergesort_inplace.cpp
+  quicksort.cpp
+  radixsprt_lsd.cpp
+  コードを生成中...
   sorter_dx.vcxproj -> F:\MYFOLDER\ONEDRIVE\俺用フォルダ\sorter_dx\x64\Debug\sorter_dx.exe
